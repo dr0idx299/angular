@@ -1,0 +1,18 @@
+<div class="header">
+  <div class="content" fxLayout="row" fxLayoutAlign.xs="space-between center" fxLayoutGap.xs="2%" fxLayout.xs="column" fxFlexFill>
+    <div fxFlex fxLayoutAlign="start center" fxLayoutAlign.xs="center center" class="sec1" fxFlex.xs="50">
+      <img src="assets/icons/Sam's_logo.jpeg">
+    </div>
+    <div fxFlex fxLayoutAlign="center center" class="sec2" fxFlex.xs="30">
+      <strong>Sam's Club CRM Tool</strong>
+    </div>
+    <div fxFlex fxLayoutAlign="center center" fxLayoutGap="10%" fxLayoutGap.xs="15%" class="sec3" fxFlex.xs="20">
+      <a routerLink="/">
+        <mat-icon>home</mat-icon>
+      </a>
+      <a routerLink="/">
+        <mat-icon>file_download</mat-icon>
+      </a>
+    </div>
+  </div>
+</div>
